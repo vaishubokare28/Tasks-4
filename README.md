@@ -78,13 +78,6 @@ Make the dashboard clean and business-ready:
 
 ---
 
-## 🗃️ Dataset Suggestion
-You can use:
-> 📂 **Companies Financial Dataset**  
-(from Kaggle)
-
----
-
 ## 🧠 Outcome
 By completing this task, you will:
 - Learn to design dashboards with purpose
