@@ -10,6 +10,12 @@ Design an **interactive business intelligence dashboard** using Power BI or Tabl
 - Any Financial/Sales dataset *(from Kaggle)*
 
 ---
+## 🖼️ Dashboard Preview  
+
+(![Financial-Analytics Dashboard](https://github.com/user-attachments/assets/ed4a077e-acb9-4029-944b-7620d7256a3d)
+)
+
+---
 
 ## 📌 Hints / Mini Guide
 
